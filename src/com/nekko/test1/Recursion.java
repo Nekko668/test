@@ -5,6 +5,7 @@ public class Recursion {
         int result = test(5);
         System.out.println(result);
         System.out.println("测试提交");
+        System.out.println("测试提交2");
     }
 
     private static int test(int i) {
