@@ -4,6 +4,7 @@ public class Recursion {
     public static void main(String[] args) {
         int result = test(5);
         System.out.println(result);
+        System.out.println("测试提交");
     }
 
     private static int test(int i) {
